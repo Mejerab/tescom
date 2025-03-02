@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Jabra Elite 75t",
+      "image": "https://i.ibb.co.com/Yd81s5k/Image.png",
+      "price": 20.00,
+      "count": 1
+    },
+    {
+      "id": 2,
+      "name": "Audio-Technica M50x",
+      "image": "https://i.ibb.co.com/f18gHcB/Image-2.png",
+      "price": 40.00,
+      "count": 1
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM4",
+      "image": "https://i.ibb.co.com/6mQXYQP/Image-3.png",
+      "price": 65.00,
+      "count": 1
+    }
+  ]
